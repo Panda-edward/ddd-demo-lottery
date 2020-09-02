@@ -1,0 +1,7 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://10.179.69.40:3306/gulfflow?useUnicode=true&characterEncoding=UTF-8&characterSetResults=UTF-8&useSSL=false&zeroDateTimeBehavior=convertToNull
+    username: root
+    password: 123456
+    type: com.alibaba.druid.pool.DruidDataSource

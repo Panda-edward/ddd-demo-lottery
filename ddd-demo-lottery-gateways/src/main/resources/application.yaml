@@ -1,0 +1,9 @@
+
+spring:
+  application:
+    name: com.ed.panda.archetype.lottery
+  profiles:
+    active: dev
+
+server:
+  port: 8899
